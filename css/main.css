@@ -1,0 +1,15 @@
+body {
+  background-color: #1e1e1e;
+}
+
+.portfolio {
+  color: white;
+  font-family: 'Garamond';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 30px;
+}
+
+.top-buffer {
+  margin-top:30px;
+}

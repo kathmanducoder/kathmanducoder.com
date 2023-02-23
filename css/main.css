@@ -1,15 +1,35 @@
-body {
-  background-color: #1e1e1e;
+.logo-row {
+  margin-top:3%;
+  margin-bottom:2%;
 }
 
-.top-buffer {
-  margin-top:30px;
+.row-top-buffer {
+  margin-top:3%;
 }
 
-.github-logo {
+.github-icon {
   display: block;
-  margin-left: auto;
+  margin-left: 95%;
   margin-right: auto;
   height:30px;
   width:30px;
+}
+
+.yt-icon {
+  display: block;
+  margin-left: auto;
+  margin-right: 95%;
+  height:30px;
+  width:30px;
+}
+
+hr {
+  border:none;
+  height: 20px;
+ 	width: 90%;
+	height: 50px;
+	margin-top: 0;
+	border-bottom: 1px solid #1f1209;
+	box-shadow: 0 20px 20px -20px #333;
+  margin: -50px auto 10px; 
 }
